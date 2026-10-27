@@ -45,3 +45,10 @@
 - 8月 Q2 后下调 2026 指引：有机营收持平至 -1%，调整后 EPS $7.20–7.40（约 6.6 倍 P/E）。原因：阿根廷、客户上线延迟、执行慢。新 CEO 6月上任，做业务梳理。股价一年跌约 60%。
 - 结论：便宜，但有价值陷阱风险。
 - 来源：[Payment Expert](https://paymentexpert.com/2026/08/07/fiserv-cuts-2026-outlook-q2-earnings/)
+
+## MCD 麦当劳（2026-10-28，约$249，观察名单）
+- 较 2026/3 高点 $341.75 跌约 29%；52周低点 $229.20。P/E 约 20（十多年来最低之一），股息年 $7.72，收益率约 3.1%，派息率约 60%。
+- 下跌原因：美国同店增速 Q2 降到 +0.8%，客流转负；管理层预计 Q3 美国同店略为负；低收入顾客减少外食；超值菜单执行不一致；9月投资者日宣布 $8.5B 加盟商支持、加盟比例提到约98%，分析师下调目标价；另有 AI 定价协同的集体诉讼（未证实，公司否认）。
+- Q3 财报 11/4，一致预期调整后 EPS 约 $3.39、营收约 $7.30B。分析师平均目标约 $296（22 买入 / 13 持有 / 1 卖出）。
+- 结论：好公司在经历美国需求周期性走弱，估值已便宜；但"跌了30%"本身不是买入理由，需财报确认客流止跌。
+- 来源：[Tickeron](https://tickeron.com/ticker/MCD/)、[Daily Political](https://www.dailypolitical.com/2026/10/27/mcdonalds-corporation-mcd-stock-position-boosted-by-kingswood-wealth-advisors-llc.html)、[Hudson Labs](https://www.hudson-labs.com/research/mcdonalds-q3-2026-earnings-preview-mcd-results-preview)、[Parameter](https://parameter.io/mcdonalds-mcd-stock-struggles-continue-as-2026-weakness-deepens/)
