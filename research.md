@@ -2,7 +2,18 @@
 
 新内容写在对应公司下面，最新的放最上面，标日期和来源。
 
-## GOOGL 谷歌（2026-10-21，约$333）
+## GOOGL 谷歌
+### 2026-10-28 Q3 财报（盘后跌约10%，$322 → ~$288）
+- 营收 $127.6B，略超预期。经营利润 $40.6B（+30%），经营利润率 31.8%（去年 30.5%）。
+- EPS $2.12，远低于预期 ~$3.02：主要因"其他收支" -$8.2B，几乎全是所持 SpaceX 股份的**未实现账面亏损**（SpaceX 股价下跌），非现金、非主业。粗算剔除后 EPS 约 $2.6–2.7。
+- 搜索 +12%（Q1 +19%、Q2 +17%）：去年同期基数高、汇率、零售/媒体广告主、AI Mode 变现率较低；但查询量增速为5年最高。→ 真正要盯的风险：AI Mode 的变现能力。
+- 云：$30.7B（+103%，Q2 +82%），经营利润率 36.2%（去年 23.7%）。
+- 资本开支：Q3 $51.4B（去年 $24.0B）；2026 指引 $195–205B 不变；2027 将"大幅增加"。
+- 注意：谷歌 EPS 今后会随 SpaceX 股价波动（与用户持有的 SPCX 相关）。
+- 判断：主业没有爆雷，买入理由仍成立；搜索放缓是需要跟踪的真实风险。
+- 来源：[Investing.com 电话会纪要](https://www.investing.com/news/transcripts/earnings-call-transcript-alphabet-q3-2026-profit-miss-sparks-10-afterhours-drop-93CH-4981037)、[StockTitan](https://www.stocktitan.net/articles/alphabet-q3-2026-earnings-google-cloud-doubles-search-slows)、[CNBC](https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html)
+
+### 2026-10-21（约$333）
 - 持仓中基本面最稳。10/28 盘后财报，一致预期 EPS $2.94。
 - 来源：[The Right Trader](https://therighttrader.com/earnings-calendar/googl)
 
