@@ -3,6 +3,12 @@
 新内容写在对应公司下面，最新的放最上面，标日期和来源。
 
 ## GOOGL 谷歌
+### 2026-10-29 次日股价反应
+- 收盘约 $283.5（-12.7%，前收 $324.89），上市以来最大单日跌幅；市值蒸发约 $4,800 亿。
+- 当季自由现金流 -$9.1B（资本开支 $51.4B），并新增约 $28.7B 债务——"自己的钱撑 AI 投资"的阶段已过，要盯融资。云订单储备 $561B（上季 $514B）。
+- 分析师普遍下调目标价但维持评级：JPM $425→375、高盛 $435→385、KeyBanc $410→385、Truist $420→410；DA Davidson $350→300（中性）。
+- 来源：[MarketBeat](https://www.marketbeat.com/instant-alerts/price-alphabet-nasdaq-googl-stock-falls-126-on-disappointing-earnings-2026-10-29/)、[TradingKey](https://www.tradingkey.com/analysis/stocks/us-stocks/262253478-google-q3-earnings-stock-fall-13-percent-search-revenue-miss-tradingkey)、[Motley Fool](https://www.fool.com/investing/2026/10/29/alphabet-s-cloud-business-just-doubled-the-stock-fell-12-is-it-a-buy/)
+
 ### 2026-10-28 Q3 财报（盘后跌约10%，$322 → ~$288）
 - 营收 $127.6B，略超预期。经营利润 $40.6B（+30%），经营利润率 31.8%（去年 30.5%）。
 - EPS $2.12，远低于预期 ~$3.02：主要因"其他收支" -$8.2B，几乎全是所持 SpaceX 股份的**未实现账面亏损**（SpaceX 股价下跌），非现金、非主业。粗算剔除后 EPS 约 $2.6–2.7。
@@ -36,7 +42,16 @@
 - 解禁：8/6 第一批（股价反而涨）、9月与10–11月员工批次、**12/8 180天全面解禁**（流通约66%）；马斯克股份 2027/6 解禁。
 - 来源：[KuCoin（营销文章，数字未核实）](https://www.kucoin.com/blog/spacex-stock-is-back-above-its-135-ipo-price-will-spcx-drop-below-100-in-2026)
 
-## SNDK 闪迪（2026-10-21，约$1,395）
+## SNDK 闪迪
+### 2026-10-29 FQ1'27 财报（盘中收 $1,330.05 -5.3%，盘后约 +2.9% 至 ~$1,368）
+- 营收 $11.03B（环比 +23%，同比 +378%），超指引上限 $10.8B 和一致预期 $10.64B。非GAAP EPS $49.51（指引 $44–46，预期 $46.22），GAAP $52.60。毛利率约 85%。
+- 数据中心 $4.80B（环比 +61%，占比约 44%）；消费类环比下滑。新闻稿未披露 NAND 单价/出货量，增长主要靠涨价与产品组合。
+- FQ2 指引：营收 $12.2–12.6B（环比 +11–14%），非GAAP EPS $55–57，毛利率约 85%——**指引上调，不是下调**。
+- 本季回购约 $5B。**8拆1拆股**：登记日 11/9，11/20 起按拆股后价格交易（价位表数字需 ÷8）。
+- 风险：应收账款一季增约 40%（现金转化要看）；利润几乎全靠价格，周期反转时下跌会很快。
+- 来源：[Sandisk 新闻稿](https://investor.sandisk.com/news-releases/news-release-details/sandisk-reports-fiscal-first-quarter-2027-financial-results)、[Motley Fool](https://www.fool.com/investing/2026/10/29/sandisk-revenue-up-378-on-datacenter-edge-rapid-earnings-reaction/)、[404K Research](https://404kresearch.substack.com/p/sandisk-fy2027-q1-data-centers-push)、[MoneyCheck](https://moneycheck.com/sandisk-sndk-shares-recover-after-hours-following-378-earnings-surge-and-stock-split-announcement/)
+
+### 2026-10-21（约$1,395）
 - 一年涨约 30 倍；2026/6/22 最高 $2,354，现回撤约 41%。10/29 盘后 FQ1'27 财报，指引营收 $10.3–10.8B、EPS $44–46。
 - 远期 P/E 约 6.5——周期股低市盈率常出现在景气顶部。TrendForce 预计 4Q26 NAND 合约价环比 +15–20%。
 - 风险：周期反转、云厂商削减 AI 开支、消费类收入环比 -32%。
@@ -52,7 +67,12 @@
 - 风险：GAAP 仍亏损；8月 $600M 增发；波动极大（10/1 时约$106）。
 - 来源：[24/7 Wall St.](https://247wallst.com/investing/2026/10/01/applied-optoelectronics-is-up-205-this-year-is-it-too-late-to-buy-aaoi-stock-now/)
 
-## FISV Fiserv（2026-10-21，约$48）
+## FISV Fiserv
+### 2026-10-29
+- Q3 财报尚未公布：定于 **11/3（周二）美股盘前**，8:00 ET 电话会。
+- 来源：[Investing News](https://investingnews.com/fiserv-to-release-third-quarter-earnings-results-on-november-3-2026/)
+
+### 2026-10-21（约$48）
 - 8月 Q2 后下调 2026 指引：有机营收持平至 -1%，调整后 EPS $7.20–7.40（约 6.6 倍 P/E）。原因：阿根廷、客户上线延迟、执行慢。新 CEO 6月上任，做业务梳理。股价一年跌约 60%。
 - 结论：便宜，但有价值陷阱风险。
 - 来源：[Payment Expert](https://paymentexpert.com/2026/08/07/fiserv-cuts-2026-outlook-q2-earnings/)
