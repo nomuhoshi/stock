@@ -89,3 +89,10 @@
 - Q3 财报 11/4，一致预期调整后 EPS 约 $3.39、营收约 $7.30B。分析师平均目标约 $296（22 买入 / 13 持有 / 1 卖出）。
 - 结论：好公司在经历美国需求周期性走弱，估值已便宜；但"跌了30%"本身不是买入理由，需财报确认客流止跌。
 - 来源：[Tickeron](https://tickeron.com/ticker/MCD/)、[Daily Political](https://www.dailypolitical.com/2026/10/27/mcdonalds-corporation-mcd-stock-position-boosted-by-kingswood-wealth-advisors-llc.html)、[Hudson Labs](https://www.hudson-labs.com/research/mcdonalds-q3-2026-earnings-preview-mcd-results-preview)、[Parameter](https://parameter.io/mcdonalds-mcd-stock-struggles-continue-as-2026-weakness-deepens/)
+
+## INTC 英特尔（2026-10-31，观察名单）
+- Q3 2026（10/29）：营收 $16.5B（+21%），非GAAP EPS $0.52（+126%，超预期）；数据中心 $7.3B（+78%，经营利润 $3.0B）；PC 业务 $8.1B（-5%）；代工营收 $6.7B 但经营亏损 $1.9B。
+- Q4 指引弱：营收 $15–16B（环比下滑）、非GAAP 毛利率 38%（Q3 44%）、EPS $0.25；PC 疲软至少持续到明年上半年；另有以色列工厂事故影响。财报后股价约 -21%。
+- 完成约 $23B 增发（摊薄）；现金+短投约 $54B，负债约 $50B。14A PDK 0.9 已发布，未公布外部大客户。
+- 判断：数据中心转好是真的，但代工仍在烧钱、指引转弱、刚大幅增发——典型的"困境反转"，不确定性高。暂不建仓。
+- 来源：[StockTitan](https://www.stocktitan.net/news/INTC/intel-reports-third-quarter-2026-financial-45kjlqvhkaar.html)、[CoinDCX](https://coindcx.com/blog/us-stock/intel-q3-2026-earnings-results)、[BigGo Finance](https://finance.biggo.com/news/US_INTC_2026-10-29)
