@@ -23,7 +23,13 @@
 - 持仓中基本面最稳。10/28 盘后财报，一致预期 EPS $2.94。
 - 来源：[The Right Trader](https://therighttrader.com/earnings-calendar/googl)
 
-## ORCL 甲骨文（2026-10-21，约$130，较 2025/9 高点 $345 跌 62%）
+## ORCL 甲骨文
+### 2026-10-28 投资者日（10/30 收 $130.67）
+- 预计 FY28 下半年自由现金流转正，FY29 目标 ≥$30B；到 FY2030 新增融资封顶 $20B（股权 $10B + 债务 $10B）；重申 FY27 营收 ≥$90B。当天 +10.7%，之后随芯片股回落。
+- 判断：降低了"无限增发"担忧，买入理由更稳；仍超上限，不加。
+- 来源：[heygotrade](https://heygotrade.com/en/news/oracle-orcl-stock-news-october-29-2026/)
+
+### 2026-10-21（，约$130，较 2025/9 高点 $345 跌 62%）
 - FY27 Q1（2026/9/10 公布）：营收 $19.3B（+30%），OCI $7.4B（+121%），RPO $664B；FY27 营收指引 ≥$90B。
 - 风险：资本开支 $28.5B/季，自由现金流 -$5.4B/季；利息支出 +55%；$20B 增发（ATM）摊薄；增长集中在少数 AI 合同（OpenAI）；软件收入 -3%。
 - 结论：增长真实，资产负债表风险高。持有不加，12月中旬财报是检查点。
@@ -43,6 +49,10 @@
 - 来源：[KuCoin（营销文章，数字未核实）](https://www.kucoin.com/blog/spacex-stock-is-back-above-its-135-ipo-price-will-spcx-drop-below-100-in-2026)
 
 ## SNDK 闪迪
+### 2026-10-30 NAND 涨势见顶信号（收 $1,150.89，-13.5%）
+- 铠侠指引低于预期并警告闪存涨价放缓。TrendForce 10/30：NAND 晶圆合约价涨势结束、MLC/TLC/QLC 持平；企业级 SSD 4Q26 合约价仍涨；客户端 SSD 涨幅明显收窄；1Q27 移动存储价格趋平。
+- 判断：尚未"转跌"，但买入理由（涨价）在变弱 → 建议暂停后续建仓。
+- 来源：[heygotrade](https://heygotrade.com/en/news/sandisk-sndk-stock-news-november-2-2026/)、[TrendForce](https://www.trendforce.com/research-tags/nand-flash?tab=reports)
 ### 买入理由（2026-10-30 写定）
 - AI 数据中心需要大量企业级 SSD，NAND 供不应求，涨价推动营收和利润暴增；新产能要几年才能出来。
 - 最新财报超预期且下季指引上调；估值看起来低（周期股的低估值可能是顶部信号）。
@@ -96,3 +106,11 @@
 - 完成约 $23B 增发（摊薄）；现金+短投约 $54B，负债约 $50B。14A PDK 0.9 已发布，未公布外部大客户。
 - 判断：数据中心转好是真的，但代工仍在烧钱、指引转弱、刚大幅增发——典型的"困境反转"，不确定性高。暂不建仓。
 - 来源：[StockTitan](https://www.stocktitan.net/news/INTC/intel-reports-third-quarter-2026-financial-45kjlqvhkaar.html)、[CoinDCX](https://coindcx.com/blog/us-stock/intel-q3-2026-earnings-results)、[BigGo Finance](https://finance.biggo.com/news/US_INTC_2026-10-29)
+
+## 宏观（2026-11-02）
+- FOMC 10/28 维持 3.75–4.00%（9月加息25bp），10:2，两票主张加息；FedWatch 12月加息约85%；下次 12/8–9；10月 CPI 11/10 公布。来源：[hackernoon](https://hackernoon.com/fed-holds-rates-at-375percent-400percent-in-a-10-2-vote-how-qqq-spy-and-bitcoin-reacted)
+- 布油 10/30 约 $118（霍尔木兹海峡/伊朗局势），10月 WTI +15%。来源：[Fortune](https://fortune.com/article/price-of-oil-10-30-2026/)
+- AI 资本开支 Q3：无一家削减。亚马逊 2026 约 $220B 不变；微软 2026 约 $170B；Meta 区间收窄至 $135–145B（下限上调）；谷歌 Q3 $51.4B；四家都说 2027 更多。来源：[404K Research](https://404kresearch.substack.com/p/big-tech-q3-capex-deep-dive-2027)
+- BTC 11/1 约 $77.7k，10月 -7.7%。来源：[cryptoticker](https://cryptoticker.io/en/bitcoin-price-narrowest-daily-range-november-2026/)
+- 10/30 英特尔指引拖累芯片股，纳指 -2.86%，NVDA -4.2%。台积电 Q3 营收 $46.7B（+41%），Q4 指引 $52.3–54.3B。
+- 财报日（已确认）：FISV 11/3 盘前、AAOI 11/5 盘后、RKLB 11/9 盘后、NVDA 11/17。
