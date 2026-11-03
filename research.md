@@ -84,6 +84,11 @@
 - 来源：[24/7 Wall St.](https://247wallst.com/investing/2026/10/01/applied-optoelectronics-is-up-205-this-year-is-it-too-late-to-buy-aaoi-stock-now/)
 
 ## FISV Fiserv
+### 2026-11-03 Q3 财报
+- 维持 2026 全年指引：有机营收 -1%~0%，调整后 EPS $7.20–7.40；称 Q4 收入将加速。Clover 只说"基本面持续增长"，未披露数字。
+- 判断：没有再次下调 → 不触发清仓规则，继续持有不加。
+- 来源：[Fiserv 8-K 新闻稿](https://www.sec.gov/Archives/edgar/data/0000798354/000079835426000039/fisvq326earningsrelease.htm)
+
 ### 2026-10-29
 - Q3 财报尚未公布：定于 **11/3（周二）美股盘前**，8:00 ET 电话会。
 - 来源：[Investing News](https://investingnews.com/fiserv-to-release-third-quarter-earnings-results-on-november-3-2026/)
