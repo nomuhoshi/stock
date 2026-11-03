@@ -114,3 +114,17 @@
 - BTC 11/1 约 $77.7k，10月 -7.7%。来源：[cryptoticker](https://cryptoticker.io/en/bitcoin-price-narrowest-daily-range-november-2026/)
 - 10/30 英特尔指引拖累芯片股，纳指 -2.86%，NVDA -4.2%。台积电 Q3 营收 $46.7B（+41%），Q4 指引 $52.3–54.3B。
 - 财报日（已确认）：FISV 11/3 盘前、AAOI 11/5 盘后、RKLB 11/9 盘后、NVDA 11/17。
+
+## TSM 台积电（2026-11-03，约$410–434）
+- Q3 2026（10 月公布）：营收 $46.7B（+41%），毛利率 66.4%，ADR EPS $4.60（超预期 $4.42）；HPC 占营收 68%；3nm+5nm 占晶圆收入 61%，2nm 开始放量。
+- Q4 指引 $52.3–54.3B；2026 年美元营收约 +44%；资本开支 $60–64B，2026–28 年将显著更高。CEO：AI 需求仍远超供给。
+- 风险：海外工厂拉低毛利 2%→3–4%；消费类需求受成本上升影响；先进封装有竞争对手；台海地缘。财报后因毛利和资本开支担忧小跌。
+- 判断：AI 芯片无论谁赢（NVDA、AMD、谷歌 TPU、苹果）都要台积电代工，是"卖铲人"；且不在 QQQ 里。可从零碎仓升为正式持仓，上限 7%。
+- 来源：[CRN Asia](https://www.crnasia.com/news/2026/components-and-peripherals/tsmc-third-quarter-revenue-tops-guidance-as-ceo-says-ai-dema)、[FourWeekMBA](https://fourweekmba.com/ai-tsmc-q3-revenue-rises-to-46-7b-with-a-66-4-gross-margin/)
+
+## AMD（2026-11-03，观察名单）
+- 10/6 收盘高点 $649.42，10/23 $516.79，近期约 $467；年内约 +100% 以上；市值约 $1 万亿上下。远期 PE：2026 年约 68 倍、2027 年约 33 倍（按 10/23 价）。
+- Q3 财报 **11/3 盘后**：指引营收约 $13B、毛利率 56%；一致预期 EPS $1.68。Helios/MI450 已量产，Q4 起放量；数据中心收入 2027 年预计翻倍以上；锚定客户 Meta（最多 6GW）、OpenAI、Anthropic。
+- 风险：估值靠 2027 年的增长兑现；8 月财报超预期后仍下跌；AI 加速器毛利低于公司平均；供应链（晶圆、封装、HBM）紧张；已在 QQQ 里，与 NVDA 重叠。
+- 判断：观察名单，等财报。条件见 strategy.md。
+- 来源：[TIKR](https://www.tikr.com/blog/amd-stock-is-up-131-this-year-heres-where-it-stands-after-a-1-trillion-run)、[Hudson Labs](https://www.hudson-labs.com/research/amd-q3-2026-earnings-preview-revenue-guidance-key-drivers)、[The Right Trader](https://therighttrader.com/earnings-calendar/amd)
