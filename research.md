@@ -84,6 +84,11 @@
 - 来源：[24/7 Wall St.](https://247wallst.com/investing/2026/10/01/applied-optoelectronics-is-up-205-this-year-is-it-too-late-to-buy-aaoi-stock-now/)
 
 ## FISV Fiserv
+### 2026-11-04 股价反应补充
+- 11/3 收盘 +12.5%（盘前一度 +7%）：调整后 EPS、营收超预期；全年指引（有机营收、调整后 EPS）重申；Project Elevate 节省目标翻倍；Q4 恢复回购。另计提 $6.45B 商誉减值（非现金，GAAP 每股亏 $11.17）。商户业务（含 Clover）调整后经营利润同比 -17%，Clover 未披露具体增速。
+- 判断：不触发清仓；仍是"止跌"而非"重回增长"。≥$65 卖一半的线不变。
+- 来源：[TradingKey](https://www.tradingkey.com/news/market-movers/262269341-market-movers-fisv-20261103)、[GuruFocus](https://www.gurufocus.com/news/9165663/fiserv-fisv-shares-jump-74-premarket-after-strong-q3-results-and-elevated-cost-savings-target)
+
 ### 2026-11-03 Q3 财报
 - 维持 2026 全年指引：有机营收 -1%~0%，调整后 EPS $7.20–7.40；称 Q4 收入将加速。Clover 只说"基本面持续增长"，未披露数字。
 - 判断：没有再次下调 → 不触发清仓规则，继续持有不加。
@@ -99,6 +104,13 @@
 - 来源：[Payment Expert](https://paymentexpert.com/2026/08/07/fiserv-cuts-2026-outlook-q2-earnings/)
 
 ## MCD 麦当劳（2026-10-28，约$249，观察名单）
+### 2026-11-04 Q3 财报（股价约 $263 → 盘中 $275–280，+5~6.5%）
+- 美国同店 -0.2%（预期约 -0.5%，公司此前指引"略负"）；客流为负、客单价抵消，未披露客流百分比；CEO：价值策略干预后季内逐月改善。行业快餐客流 Q3 约 -2.6%（RMS）。
+- 全球同店 +1.5%；营收 $7.16B（预期 $7.28B，略低）；调整后 EPS $3.57（预期 $3.38）。季度股息 +4% 至 $1.93（年 $7.72）。
+- 全年指引：所读来源未找到明确表述（待核实）。
+- 判断：基本面条件基本满足（同店不差于略负、季内改善、股息继续增长），但价格 $275+ 高于第1批 ≤$255，不追。
+- 来源：[StockTitan 新闻稿](https://www.stocktitan.net/news/MCD/mc-donald-s-reports-third-quarter-2026-b8kqi6hdt183.html)、[24/7 Wall St.](https://247wallst.com/investing/2026/11/04/mcdonalds-rises-5-as-earnings-beat-outweighs-u-s-sales-dip-chipotle-climbs-4-starbucks-gains-3/)、[MarketBeat](https://www.marketbeat.com/earnings/reports/2026-11-4-mcdonalds-co-stock/)
+
 - 较 2026/3 高点 $341.75 跌约 29%；52周低点 $229.20。P/E 约 20（十多年来最低之一），股息年 $7.72，收益率约 3.1%，派息率约 60%。
 - 下跌原因：美国同店增速 Q2 降到 +0.8%，客流转负；管理层预计 Q3 美国同店略为负；低收入顾客减少外食；超值菜单执行不一致；9月投资者日宣布 $8.5B 加盟商支持、加盟比例提到约98%，分析师下调目标价；另有 AI 定价协同的集体诉讼（未证实，公司否认）。
 - Q3 财报 11/4，一致预期调整后 EPS 约 $3.39、营收约 $7.30B。分析师平均目标约 $296（22 买入 / 13 持有 / 1 卖出）。
@@ -111,6 +123,13 @@
 - 完成约 $23B 增发（摊薄）；现金+短投约 $54B，负债约 $50B。14A PDK 0.9 已发布，未公布外部大客户。
 - 判断：数据中心转好是真的，但代工仍在烧钱、指引转弱、刚大幅增发——典型的"困境反转"，不确定性高。暂不建仓。
 - 来源：[StockTitan](https://www.stocktitan.net/news/INTC/intel-reports-third-quarter-2026-financial-45kjlqvhkaar.html)、[CoinDCX](https://coindcx.com/blog/us-stock/intel-q3-2026-earnings-results)、[BigGo Finance](https://finance.biggo.com/news/US_INTC_2026-10-29)
+
+## 宏观（2026-11-04 中期选举）
+- 民主党拿下众议院和参议院（俄亥俄、得州参议员席位翻转）；特朗普表示接受结果。11/4 开盘道指 +1.8%、标普 +1.1%、纳指 +1%，盘中道指一度 +1,500 点以上。
+- 油价：布油 -3.1% 至约 $100.4、WTI 约 $93.1（四周低位，伊朗战事有谈判消息）→ 已低于 $110 触发线。
+- 板块：零售、谷歌（开盘 +3.5%）涨；甲骨文、英伟达开盘走低。Dan Ives：民主党参议院会给 AI/科技立法设障碍。
+- 10 年期国债、加息预期：未查到新数据（12 月 FOMC 仍按约 85% 加息预期看）。
+- 来源：[Al Jazeera](https://www.aljazeera.com/economy/2026/11/4/us-markets-rise-as-democrats-sweep-midterm-elections)、[CNN](https://www.cnn.com/2026/11/04/investing/us-markets-midterm-elections)、[CBS](https://www.cbsnews.com/news/stock-market-soar-democrats-take-control-of-congress/)
 
 ## 宏观（2026-11-02）
 - FOMC 10/28 维持 3.75–4.00%（9月加息25bp），10:2，两票主张加息；FedWatch 12月加息约85%；下次 12/8–9；10月 CPI 11/10 公布。来源：[hackernoon](https://hackernoon.com/fed-holds-rates-at-375percent-400percent-in-a-10-2-vote-how-qqq-spy-and-bitcoin-reacted)
@@ -128,6 +147,15 @@
 - 来源：[CRN Asia](https://www.crnasia.com/news/2026/components-and-peripherals/tsmc-third-quarter-revenue-tops-guidance-as-ceo-says-ai-dema)、[FourWeekMBA](https://fourweekmba.com/ai-tsmc-q3-revenue-rises-to-46-7b-with-a-66-4-gross-margin/)
 
 ## AMD（2026-11-03，观察名单）
+### 2026-11-03 Q3 财报（11/3 收 $483.90；盘后/11/4 盘前 +5~7%，约 $510–520）
+- 营收 $13.38B（+45%，指引 ~$13B）；非GAAP 毛利率 56%（=指引）；非GAAP EPS $2.09（预期约 $1.95）。GAAP EPS $1.46（含 $1.1B 客户认股权证非现金费用）。
+- 数据中心 $8.55B（+97%，预期 $8.20B），经营利润率 34%。
+- Q4 指引营收 ~$17B ±3%（一致预期约 $16.2B），非GAAP 毛利率 ~55%（略降，AI 加速器占比上升）；数据中心环比 +~50%。
+- MI455X Q3 开始批量出货，"Helios 按计划爬坡"；Anthropic、Meta、微软、OpenAI、甲骨文的首批 Helios 机架已上线。未披露新的订单金额。
+- 2027：总营收增长 >80%（分析师约 77%），服务器收入约翻倍，数据中心占营收 >80%。
+- 判断：指引不降、出货按计划 → 基本面条件满足；价格约 $515 远高于 ≤$440，不追。
+- 来源：[StockTitan 新闻稿](https://www.stocktitan.net/news/AMD/amd-reports-third-quarter-2026-financial-7j6jzo29buqw.html)、[TradingKey 电话会](https://www.tradingkey.com/news/transcripts/262270388-)、[Trefis](https://www.trefis.com/stock/amd/articles/622446/whats-happening-with-amd-stock-2/2026-11-04)、[KuCoin/coinpaper](https://www.kucoin.com/news/flash/amd-stock-rises-7-as-data-center-revenue-surges-97-to-8-55-billion)
+
 - 10/6 收盘高点 $649.42，10/23 $516.79，近期约 $467；年内约 +100% 以上；市值约 $1 万亿上下。远期 PE：2026 年约 68 倍、2027 年约 33 倍（按 10/23 价）。
 - Q3 财报 **11/3 盘后**：指引营收约 $13B、毛利率 56%；一致预期 EPS $1.68。Helios/MI450 已量产，Q4 起放量；数据中心收入 2027 年预计翻倍以上；锚定客户 Meta（最多 6GW）、OpenAI、Anthropic。
 - 风险：估值靠 2027 年的增长兑现；8 月财报超预期后仍下跌；AI 加速器毛利低于公司平均；供应链（晶圆、封装、HBM）紧张；已在 QQQ 里，与 NVDA 重叠。
