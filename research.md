@@ -161,3 +161,11 @@
 - 风险：估值靠 2027 年的增长兑现；8 月财报超预期后仍下跌；AI 加速器毛利低于公司平均；供应链（晶圆、封装、HBM）紧张；已在 QQQ 里，与 NVDA 重叠。
 - 判断：观察名单，等财报。条件见 strategy.md。
 - 来源：[TIKR](https://www.tikr.com/blog/amd-stock-is-up-131-this-year-heres-where-it-stands-after-a-1-trillion-run)、[Hudson Labs](https://www.hudson-labs.com/research/amd-q3-2026-earnings-preview-revenue-guidance-key-drivers)、[The Right Trader](https://therighttrader.com/earnings-calendar/amd)
+
+
+## 2026-11-07 AAOI Q3 财报（11/5 盘后）
+- 营收 $269.9M（去年同期 $118.6M，Q2 $191.9M）；非 GAAP EPS $0.17（公司指引 $0.11–0.26，Zacks 共识 $0.14）；GAAP 转盈利（净利 $6.3M）；非 GAAP 毛利率 28.7%（去年同期 31.0%）。
+- Q4 指引：营收 $385–420M、非 GAAP EPS $0.48–0.63、毛利率 29.5–31%。宣布与一家 Tier 1 超大规模客户的多年战略协议。
+- 产能：年底 800G/1.6T「超过 50 万片/月」、2027 年底「超过 100 万片/月」；2027 年美国扩产因「等电时间比预期长」等原因推迟。（Zacks 11/3 文章写的是年底 65 万、2027 年底 93 万，口径可能不同，待核对。）
+- 盘后股价反应：有报道标题称「小幅营收不及预期、EPS 超预期、盘后下跌」，具体幅度未查到。
+- 来源：https://www.stocktitan.net/news/AAOI/applied-optoelectronics-reports-third-quarter-2026-jjvrweekf3oa.html
