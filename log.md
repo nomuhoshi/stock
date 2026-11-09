@@ -198,3 +198,6 @@
 - サイゼリヤ ¥8,660：FY2026 营业利益 -6%、净利 -1%，股价却从 6 月 ¥5,170 涨到 ¥8,660，纯靠估值抬升 → 贵，等 ≤¥6,800。
 - MCD 维持 ≤$255。用户原话"等跌了再买"→ 改为写死价格 + 长期有效限价单，避免重演 KO $70 没执行。
 - 来源：https://www.tikr.com/blog/coca-cola-soars-12-in-a-month-to-a-52-week-high-affordability-is-working ；https://www.tikr.com/blog/disney-dis-stock-up-month-take-profits-or-buy-more ；https://edinetdb.jp/company/E03305/earnings/FY2026
+
+## 2026-11-09 讲解：限价单 / 长期有效（GTC）
+- 用户问"长期有效限价单"是什么；已解释。KO 买入线以 ≤$85 为准（$92 作废）。
