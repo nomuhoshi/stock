@@ -169,3 +169,11 @@
 - 产能：年底 800G/1.6T「超过 50 万片/月」、2027 年底「超过 100 万片/月」；2027 年美国扩产因「等电时间比预期长」等原因推迟。（Zacks 11/3 文章写的是年底 65 万、2027 年底 93 万，口径可能不同，待核对。）
 - 盘后股价反应：有报道标题称「小幅营收不及预期、EPS 超预期、盘后下跌」，具体幅度未查到。
 - 来源：https://www.stocktitan.net/news/AAOI/applied-optoelectronics-reports-third-quarter-2026-jjvrweekf3oa.html
+
+
+## 2026-11-09 NVDA：黄仁勋丑闻与董事会调查
+- 事实（已确认）：黄仁勋在内部信中承认对妻子不忠；董事会启动调查（周日宣布）；英伟达称他继续任 CEO、日常运营不受影响，没有证据显示美国国家机密或公司内部信息泄露。
+- 未确认：纽约时报称美国情报部门认定其相关女方 Alice Huang 是中国情报人员；她曾任新加坡 Megaspeed 高管，该公司两年买了超过 $48 亿英伟达芯片。Megaspeed 与当事人均未回应。
+- 股价：11/5 单日最多跌 9.3%（AI 芯片整体暴跌，非丑闻）；周五收盘 $186.64；周末夜盘约 $180.3（-3.4%）、Binance 代币约 $176（-5.6%）。较 10 月高点已跌约 22%。
+- 风险：CEO 去留（无明确接班人）、国家安全/国会听证/出口审查、对华发货延迟、Megaspeed 这类大客户的合规；11/17 财报会被追问调查。
+- 来源：https://gulfnews.com/business/markets/jensen-huang-faces-probe-with-nvidia-earnings-8-days-away-stock-wobbles-1.500740798 ；https://kathmandupost.com/world/2026/11/09/nvidia-shares-fall-as-probe-into-ceo-jensen-huang-s-ties-to-alleged-chinese-spy-raises-questions
