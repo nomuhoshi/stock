@@ -177,3 +177,11 @@
 - 股价：11/5 单日最多跌 9.3%（AI 芯片整体暴跌，非丑闻）；周五收盘 $186.64；周末夜盘约 $180.3（-3.4%）、Binance 代币约 $176（-5.6%）。较 10 月高点已跌约 22%。
 - 风险：CEO 去留（无明确接班人）、国家安全/国会听证/出口审查、对华发货延迟、Megaspeed 这类大客户的合规；11/17 财报会被追问调查。
 - 来源：https://gulfnews.com/business/markets/jensen-huang-faces-probe-with-nvidia-earnings-8-days-away-stock-wobbles-1.500740798 ；https://kathmandupost.com/world/2026/11/09/nvidia-shares-fall-as-probe-into-ceo-jensen-huang-s-ties-to-alleged-chinese-spy-raises-questions
+
+
+## 2026-11-09 PDD（拼多多/Temu）初步研究
+- Q2 2026（8/24 公布）：营收 1,123.5 亿元（+8%，低于共识约 3.4%）；广告 576 亿（约 +3%）、交易服务 547 亿（+13%）；归母净利 271.8 亿元（-12%）；经调整 EPS 超预期；现金及短投 4,564 亿元；经营现金流 +19%。
+- 上半年净利 397 亿元，年化约 800–900 亿元（约 $110–125 亿）；市值约 $1,125 亿（10/23）→ 市盈率约 9–10 倍；扣除约 $640 亿现金后约 4–5 倍。
+- 逆风：美国取消 $800 小包免税（Q2 是首个完整季度）；欧盟 7/1 起每类商品 €3 关税，另拟 €2 处理费；欧盟依 DSA 罚款 €2 亿；德州和解 $300 万；管理层称短期对国际业务"影响相当大"，Q3 首次完整反映。
+- Q3 财报：11/17 或 11/19（来源不一）。
+- 来源：https://www.retail-insight-network.com/news/pdd-holdings-net-profit-falls-12-q2/ ；https://shopappy.com/ecommerce/temu/pdd-q2-2026-results-temu-eu-parcel-duty ；https://www.ad-hoc-news.de/boerse/news/corporate-news/pdd-holdings-faces-temu-settlement-pdd-holdings-stock-is-valued-at-usd-112-5-billion/70414464
