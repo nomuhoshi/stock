@@ -185,3 +185,8 @@
 - 逆风：美国取消 $800 小包免税（Q2 是首个完整季度）；欧盟 7/1 起每类商品 €3 关税，另拟 €2 处理费；欧盟依 DSA 罚款 €2 亿；德州和解 $300 万；管理层称短期对国际业务"影响相当大"，Q3 首次完整反映。
 - Q3 财报：11/17 或 11/19（来源不一）。
 - 来源：https://www.retail-insight-network.com/news/pdd-holdings-net-profit-falls-12-q2/ ；https://shopappy.com/ecommerce/temu/pdd-q2-2026-results-temu-eu-parcel-duty ；https://www.ad-hoc-news.de/boerse/news/corporate-news/pdd-holdings-faces-temu-settlement-pdd-holdings-stock-is-valued-at-usd-112-5-billion/70414464
+
+## NVDA：黄仁勋事件进展（2026-11-11 记录）
+- 11/8 英伟达董事会声明：成立独立董事委员会、聘外部律师展开独立调查；称目前没有理由认为国家安全或公司机密受损；对黄仁勋及管理层有信心；未给时间表。来源：https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/default.aspx
+- 11/5 众议院外交委员会、对华特别委员会、情报委员会三位主席致函，要求黄仁勋 11/18 闭门联合通报（与 Megaspeed 高管 Alice Huang 的往来、公司反间谍措施），须在 11/11 前答复；目前不涉及出口规则变更。来源：https://letsdatascience.com/news/house-chairs-ask-nvidia-ceo-jensen-huang-for-closed-door-bri-d3ca0fdc
+- 11/10 盘中 NVDA 约 $167.5（11/6 约 $184）。11/17 财报。
