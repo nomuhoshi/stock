@@ -190,3 +190,7 @@
 - 11/8 英伟达董事会声明：成立独立董事委员会、聘外部律师展开独立调查；称目前没有理由认为国家安全或公司机密受损；对黄仁勋及管理层有信心；未给时间表。来源：https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/default.aspx
 - 11/5 众议院外交委员会、对华特别委员会、情报委员会三位主席致函，要求黄仁勋 11/18 闭门联合通报（与 Megaspeed 高管 Alice Huang 的往来、公司反间谍措施），须在 11/11 前答复；目前不涉及出口规则变更。来源：https://letsdatascience.com/news/house-chairs-ask-nvidia-ceo-jensen-huang-for-closed-door-bri-d3ca0fdc
 - 11/10 盘中 NVDA 约 $167.5（11/6 约 $184）。11/17 财报。
+
+## NVDA：黄仁勋辞职（2026-11-12）
+- 辞去总裁、CEO、董事，立即生效；CFO Colette Kress 兼任临时 CEO；Harvey C. Jones 任董事长；董事会内外部寻找继任者。董事会声明未给理由；报道称与两段婚外关系有关（其一为 Megaspeed 高管 Alice Huang，被报道疑似中国情报人员；Megaspeed 被调查涉嫌走私约 $20 亿受管制 GPU 到中国）。股价早盘跌超 10%，近一个月跌超 23%。
+- 来源：https://www.tomshardware.com/tech-industry/nvidia-confirms-jensen-huang-has-resigned-as-ceo-colette-kress-executive-vice-president-and-chief-financial-officer-appointed-interim-ceo ；https://www.semafor.com/article/11/12/2026/jensen-huang-resigns-as-nvidia-ceo
