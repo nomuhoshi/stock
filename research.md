@@ -194,3 +194,6 @@
 ## NVDA：黄仁勋辞职（2026-11-12）
 - 辞去总裁、CEO、董事，立即生效；CFO Colette Kress 兼任临时 CEO；Harvey C. Jones 任董事长；董事会内外部寻找继任者。董事会声明未给理由；报道称与两段婚外关系有关（其一为 Megaspeed 高管 Alice Huang，被报道疑似中国情报人员；Megaspeed 被调查涉嫌走私约 $20 亿受管制 GPU 到中国）。股价早盘跌超 10%，近一个月跌超 23%。
 - 来源：https://www.tomshardware.com/tech-industry/nvidia-confirms-jensen-huang-has-resigned-as-ceo-colette-kress-executive-vice-president-and-chief-financial-officer-appointed-interim-ceo ；https://www.semafor.com/article/11/12/2026/jensen-huang-resigns-as-nvidia-ceo
+
+## RKLB Q3 2026（11/9 盘后）
+- 营收 $267.8M（+72.7%）；GAAP 净亏 $79.7M；积压 $3.57B（环比 +52%，在册发射 117 次）；Q4 指引营收 $270–290M、GAAP 毛利率 34–36%。Neutron 首飞「不早于 2027」。Q3 ATM 增发约 $23.8 亿用于收购 Iridium，前三季累计约 $39 亿；Q4 加权股数指引 6.81 亿（Q3 6.52 亿）。来源：https://finsee.ai/earnings/rklb/2026/q3/en/
